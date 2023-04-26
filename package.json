@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/competitive-grandfather-rkfzt.figma-tokens-lgxx33wg",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve o9S7gY9gfgFg0DzfzjXz --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
